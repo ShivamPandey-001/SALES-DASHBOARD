@@ -1,2 +1,2 @@
 # SALES-DASHBOARD
-The primary objective of this project is to analyze retail sales data to gain actionable insights that will enhance performance and enable us to closely monitor our sales and overall performance.
+The primary objective of this project is to analyze retail sales data to gain actionable insights that will enhance performance and enable us to closely monitor our sales and overall performance. I obtained dummy data from a retail mart and processed it using Excel. I utilized advanced features such as Power Query and DAX functions for data cleaning. Following this, I conducted analysis using Power Pivot and generated interactive charts and dashboards to visualize the data, facilitating actionable insights.
